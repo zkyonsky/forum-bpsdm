@@ -5,7 +5,7 @@ body{
 }
 
 .bg-dark{
-    background: #1F509A!important;
+    background: #1666AA!important;
 }
 
 .breadcrumb {
@@ -14,7 +14,7 @@ body{
     padding: .5rem 1rem;
     margin-bottom: 1rem;
     list-style: none;
-    background-color: #1F509A;
+    background-color: #1666AA;
     border-radius: 0px!important;
 }
 
